@@ -1,4 +1,4 @@
-![Foto pessoal](photo.jpg){:height="26%" width="26%"} Ph.D. Student \\[Centro de Informática](https://www3.cin.ufpe.br/br/) \\[Federal University of Pernambuco - UFPE](https://www.ufpe.br/)   
+![Foto pessoal](photo.jpg){:height="32%" width="32%"}   |Ph.D. Student    |[Centro de Informática](https://www3.cin.ufpe.br/br/)    |[Federal University of Pernambuco - UFPE](https://www.ufpe.br/)   
 
 I'm currently studying for a doctorate degree in Computer Science at Federal University of Pernambuco (Cin/UFPE), Recife, PE - Brazil. Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
