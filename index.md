@@ -10,7 +10,6 @@ Ph.D. Student
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 I'm currently studying for a doctorate degree in Computer Science at Federal University of Pernambuco (Cin/UFPE), Recife, PE - Brazil. Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
