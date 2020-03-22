@@ -6,7 +6,7 @@
 Ph.D. Student    
 [Computer Center - Cin](https://www3.cin.ufpe.br/br/)    
 [Federal University of Pernambuco - UFPE](https://www.ufpe.br/)    
-![lattes](lattes.jpeg){: style="float: left" height="2%" width="2%"} [Currículo Lattes](http://lattes.cnpq.br/4794576859225227/)
+[Currículo Lattes](http://lattes.cnpq.br/4794576859225227/) ![lattes](lattes.jpeg){: style="float: left" height="3%" width="3%"} 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
