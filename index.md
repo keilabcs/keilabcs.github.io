@@ -1,5 +1,4 @@
-![Foto pessoal](photo.jpg){:height="38%" width="38%"}
-
+![Foto pessoal](photo.jpg){:height="25%" width="25%"}
 Ph.D. Student   
 [Centro de Informática](https://www3.cin.ufpe.br/br/)   
 [Federal University of Pernambuco - UFPE](https://www.ufpe.br/)   
