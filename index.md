@@ -6,6 +6,7 @@
 Ph.D. Student    
 [Computer Center - Cin](https://www3.cin.ufpe.br/br/)    
 [Federal University of Pernambuco - UFPE](https://www.ufpe.br/)    
+[Lattes](http://lattes.cnpq.br/4794576859225227/)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -24,7 +25,6 @@ I'm currently studying for a doctorate degree in Computer Science at Federal Uni
 ### Contact
 - [Github](https://https://github.com/keilabcs/)
 - [Linkedin](https://www.linkedin.com/in/keila-barbosa-484ab7192/)
-- [Lattes](http://lattes.cnpq.br/4794576859225227/)
 - Skype ID: keila_73
 - E-mail: kbcs2@cin.ufpe
 - Phone: +55 (82) 99678-9151
