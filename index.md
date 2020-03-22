@@ -1,4 +1,4 @@
-![Foto pessoal](photo.jpg)
+![Foto pessoal](photo.jpg){:height="50%" width="50%"}
 
 Ph.D. Student
 
