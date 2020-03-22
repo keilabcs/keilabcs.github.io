@@ -1,4 +1,4 @@
-![Foto pessoal](photo.jpg){: style="float: left" height="38%" width="38%"}
+![Foto pessoal](photo.jpg){: style="float: left" height="32%" width="32%"}
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
