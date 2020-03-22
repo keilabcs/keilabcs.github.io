@@ -1,4 +1,10 @@
-![Foto pessoal](photo.jpg){:height="38%" width="38%" .photo-left}
+/* add to you stylesheet */
+.photo-left {
+  float: left;
+  margin-right: 1em;
+}
+
+![Foto pessoal](photo.jpg){: .photo-left height="38%" width="38%"}
 Ph.D. Student    
 [Computer Center](https://www3.cin.ufpe.br/br/)    
 [Federal University of Pernambuco - UFPE](https://www.ufpe.br/)    
