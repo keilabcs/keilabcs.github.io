@@ -2,8 +2,6 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 Ph.D. Student    
 [Computer Center](https://www3.cin.ufpe.br/br/)    
@@ -12,13 +10,7 @@ Ph.D. Student
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 I'm currently studying for a doctorate degree in Computer Science at Federal University of Pernambuco (Cin/UFPE), Recife, PE - Brazil. Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
 
 *My research interests include software engineering, programming language, software development, Image processing, Big Data, Data Mining, Text Mining, AI, Deep Learning, Data Analysis, Bibliometrics, Electronic Medical Records, Applied Behavior Analysis (ABA), Autism, Biotechnology and Gamification in Education.*
