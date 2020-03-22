@@ -4,9 +4,10 @@
 <p>&nbsp;</p>
 
 Ph.D. Student    
-[Computer Center](https://www3.cin.ufpe.br/br/)    
+[Computer Center - Cin](https://www3.cin.ufpe.br/br/)    
 [Federal University of Pernambuco - UFPE](https://www.ufpe.br/)    
 
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
