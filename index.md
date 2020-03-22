@@ -1,7 +1,9 @@
 ![Foto pessoal](photo.jpg)
 
 Ph.D. Student
+
 [Centro de Informática](https://www3.cin.ufpe.br/br/)
+
 [Federal University of Pernambuco - UFPE](https://www.ufpe.br/)
 
 I'm currently studying for a doctorate degree in Computer Science at Federal University of Pernambuco (Cin/UFPE), Recife, PE - Brazil. Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/).
